@@ -44,6 +44,8 @@
 
 
 [User and kernel nodes](https://blog.codinghorror.com/understanding-user-and-kernel-mode/)
+
+
 [The Story Behind ‘init’ and ‘systemd’: Why ‘init’ Needed to be Replaced with ‘systemd’ in Linux](https://www.tecmint.com/systemd-replaces-init-in-linux/)
 
 
