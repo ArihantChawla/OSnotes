@@ -43,6 +43,15 @@
 [Is VmRSS from /proc/pid/status a good indicator of memory usage? - Reddit](https://www.reddit.com/r/linux/comments/1xmsrv/is_vmrss_from_procpidstatus_a_good_indicator_of/)
 
 
+[User and kernel nodes](https://blog.codinghorror.com/understanding-user-and-kernel-mode/)
+
+
+
+
+
+
+
+
 # Lab 4
 
 ### How to implement syscalls in xv6
